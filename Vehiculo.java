@@ -11,6 +11,14 @@ public class Vehiculo {
     this.modelo = modelo;
     this.matricula = matricula;
   }
+
+
+  public void printMarca() {
+    System.out.println(marca);
+  }
+
+
+  
   
   
 }
